@@ -31,7 +31,8 @@ img{
 /*------------------Header---------------*/
 
 .contsiner {
-    width: 1158px;
+    width: 320px;
+    /*width: 1158px;*/
     padding: 0 15px;
     margin: 0 auto;
 }
@@ -214,7 +215,8 @@ img{
 }
 
 .content-menu-item {
-    width: calc((100% - 3 * 24px) / 4);
+    /*width: calc((100% - 3 * 24px) / 4);*/
+    width: 100%;
 }
 
 .content-container-icon {
